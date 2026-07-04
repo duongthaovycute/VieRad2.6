@@ -12,8 +12,8 @@ window.VIERAD_CONFIG = {
     warning: 1.0,
     danger: 4.0
   },
-  apkPath: "downloads/VieRad-current.apk",
-  apkVersion: "2.1-original",
+  apkPath: "https://github.com/duongthaovycute/VieRad3.3/releases/download/v3.8.0/VieRad.apk",
+  apkVersion: "v3.8.0",
   developer: "Dương Thảo Vy",
   organization: "HCMUS"
 };
