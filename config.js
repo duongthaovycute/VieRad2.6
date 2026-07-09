@@ -1,5 +1,5 @@
 window.VIERAD_CONFIG = {
-  apiUrl: "https://ql4drki257.execute-api.ap-southeast-2.amazonaws.com/prod/latest",
+  apiUrl: "https://ql4drki257.execute-api.ap-southeast-2.amazonaws.com/prod/history",
   stationId: "new_station",
   stationNameVi: "Trạm NEW",
   stationNameEn: "NEW Station",
